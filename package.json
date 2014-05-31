@@ -1,0 +1,16 @@
+{
+    "name": "sniff",
+    "version": "0.0.1",
+    "devDependencies": {
+        "grunt": "0.4.5",
+        "grunt-contrib-watch": "0.6.1",
+        "grunt-contrib-jasmine": "0.6.4",
+        "grunt-contrib-uglify": "0.4.0",
+        "grunt-jslint": "1.1.12",
+        "grunt-notify": "0.3.0",
+        "matchdep": "0.3.0"
+    },
+    "scripts": {
+        "test": "grunt test"
+    }
+}
